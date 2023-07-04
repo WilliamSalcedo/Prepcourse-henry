@@ -1,1 +1,1 @@
-Este proyecto es una prueba de como clonar archivo desde git hub
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde mi repositorio local
